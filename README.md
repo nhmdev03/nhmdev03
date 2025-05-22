@@ -39,7 +39,7 @@
 
 - **IDE** :
 
-![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-5C2D91?logo=visualstudiocode&logoColor=white0&style=for-the-badge) ![Notepad++ Badge](https://img.shields.io/badge/Notepad%2B%2B-90E59A?logo=notepadplusplus&logoColor=000&style=for-the-badge) ![CodePen Badge](https://img.shields.io/badge/CodePen-000?logo=codepen&logoColor=fff&style=for-the-badge)
+![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-5C2D91?logo=visualstudiocode&logoColor=white0&style=for-the-badge) ![Notepad++ Badge](https://img.shields.io/badge/Notepad%2B%2B-90E59A?logo=notepadplusplus&logoColor=000&style=for-the-badge) ![CodePen Badge](https://img.shields.io/badge/CodePen-000?logo=codepen&logoColor=fff&style=for-the-badge) ![Eclipse IDE Badge](https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
 
 
 - **Design** :
