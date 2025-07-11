@@ -11,7 +11,7 @@
   </a>
 </h2>
 <br/>
-<div align="center">🔭 Actuellement, je travaille sur un projet Java 🌱</div> 
+<div align="center">🔭 Actuellement, je travaille sur un projet IA 🌱</div> 
 <br/>
 
 
