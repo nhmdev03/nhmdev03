@@ -77,3 +77,5 @@
 <br/><br/>
 
 <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg" align="right">
+
+![Snake animation](https://github.com/nhmdev03/nhmdev03/blob/output/github-contribution-grid-snake.svg)
