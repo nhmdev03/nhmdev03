@@ -29,7 +29,7 @@
 
 
 - **🧠 IA, Data & Modélisation** :
-- 
+
 ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white) ![Numpy](https://img.shields.io/badge/-Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Polars](https://img.shields.io/badge/-Polars-0A2540?style=for-the-badge&logo=polars&logoColor=white) ![Pydantic](https://img.shields.io/badge/-Pydantic-0984e3?style=for-the-badge&logo=python&logoColor=white) ![Typer](https://img.shields.io/badge/-Typer-2f3542?style=for-the-badge&logo=python&logoColor=white) ![Scrapy](https://img.shields.io/badge/-Scrapy-9e1c25?style=for-the-badge&logo=scrapy&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white) ![Dash](https://img.shields.io/badge/-Dash-000000?style=for-the-badge&logo=plotly&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Transformers](https://img.shields.io/badge/-Transformers-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black) ![LangChain](https://img.shields.io/badge/-LangChain-2E7D32?style=for-the-badge&logo=python&logoColor=white)
 
 
